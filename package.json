@@ -1,7 +1,7 @@
 {
-  "name": "homebridge-gatestrike",
+  "name": "homebridge-switches6",
   "version": "0.1.0",
-  "description": "a homebridge plugin for an electric gatestrike",
+  "description": "a homebridge plugin to interface with a relay",
   "license": "Apache 2.0",
   "keywords": [
     "homebridge-plugin",
@@ -15,7 +15,7 @@
   "author": "Shaun Baker",
   "repository": {
     "type": "git",
-    "url": "git://github.com/aficustree/homebridge-gatestrike.git"
+    "url": "git://github.com/aficustree/homebridge-switches6.git"
   },
   "dependencies": {
     "axios": ">=0.17.1"

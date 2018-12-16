@@ -15,7 +15,7 @@ Please see the `sample-config.json` for details on how to configure.
 ```
 "accessories": [
     {
-        "accessory": "homebridge-switchES6",
+        "accessory": "homebridge-switches6",
         "name": "Fireplace",
         "onURL": "http://YOURIP:YOURPORT/on",
         "offURL":"http://YOURIP:YOURPORT/off",
