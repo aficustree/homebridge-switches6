@@ -1,4 +1,4 @@
-# homebridge-gatestrike
+# homebridge-switches6
 
 This plugin provides an ES6 interface to a REST-based controller exposed as a homekit switch. 
 
