@@ -102,7 +102,8 @@ class SwitchAccessory {
         catch (err) {
             this.log('error communicating with lock '+err);
             this.state=false;
-            callback(err,this.state);
+            if(callback)
+                callback(err,this.state);
         }
     }
 
